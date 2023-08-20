@@ -1,0 +1,639 @@
+                              UNIVERSITY OF WASHINGTON
+                              1600 Northeast Ave
+                              Seattle, WA 88940
+                              (198)765-432
+
+NAME        Ricky Ricky Draper                      CREDITS         18
+ADDRESS     2200 Baxter, Bejing, WY 82236           
+PHONE       (651)982-296                            
+TUITION     $ 1,358.10                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   270.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  5127.10
+
+NAME        Kate Ulna Henderson                     CREDITS         15
+ADDRESS     3788 Grant, Cloud, AR 75502             
+PHONE       (146)665-858                            
+TUITION     $ 1,131.75                              
+LATE FEE    $   113.18                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  6130.75
+
+NAME        Patrick Kenneth Peterson                CREDITS          7
+ADDRESS     3711 Washington, River, ID 83756        
+PHONE       (142)542-972                            
+TUITION     $ 2,457.00                              
+LATE FEE    $   245.70                              
+INCEDENTAL  $   140.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  5056.00
+
+NAME        Benjamin Harvey Watts                   CREDITS          9
+ADDRESS     3370 Harbor, Lincoln, OH 44622          
+PHONE       (277)150-128                            
+TUITION     $   922.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   180.00                              
+HEALTH CARE $   225.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4646.50
+
+NAME        Eve Mary Poe                            CREDITS          8
+ADDRESS     3889 Ninth, Pleasant, KY 40337          
+PHONE       (310)331-000                            
+TUITION     $ 2,808.00                              
+LATE FEE    $   280.80                              
+INCEDENTAL  $   160.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  6307.00
+
+NAME        Lorraine Cara Erp                       CREDITS         15
+ADDRESS     741 Hampton, Riyadh, ME 4299            
+PHONE       (213)693-211                            
+TUITION     $ 1,131.75                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3730.75
+
+NAME        Reed Andy Peterson                      CREDITS         15
+ADDRESS     162 River, Dixon, SD 57386              
+PHONE       (209)103-054                            
+TUITION     $ 3,825.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   300.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  9124.00
+
+NAME        Nathan Edward Poe                       CREDITS         19
+ADDRESS     886 Gibson, Cloud, DC 20799             
+PHONE       (355)600-527                            
+TUITION     $ 5,776.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  9275.00
+
+NAME        Margret Samantha Ash                    CREDITS          7
+ADDRESS     3223 Third, Seoul, AZ 86417             
+PHONE       (382)547-437                            
+TUITION     $ 2,457.00                              
+LATE FEE    $   245.70                              
+INCEDENTAL  $   140.00                              
+HEALTH CARE $   175.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  5231.00
+
+NAME        Lorraine Cara Erp                       CREDITS         15
+ADDRESS     741 Hampton, Riyadh, ME 4299            
+PHONE       (213)693-211                            
+TUITION     $ 1,131.75                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3730.75
+
+NAME        Faith Belle Erp                         CREDITS          5
+ADDRESS     2801 Main, Mesada, GA 30106             
+PHONE       (138)327-720                            
+TUITION     $   512.50                              
+LATE FEE    $    51.25                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  5511.50
+
+                              University of Washington TOTALS
+NUMBER OF STUDENTS 11
+INSTATE             6
+OUT OF STATE       11
+MEAL PLAN         3 Meals a day             3       $ 14,997.00
+                  2 Meals a day             4       $ 13,996.00
+                  1 Meal a day              4       $ 10,396.00
+                  FOOD SUB TOTAL                 $ 39,389.00
+TUITION           $ 23,511.35
+LATE FEE          $    936.63
+INCEDENTAL        $  2,220.00
+Health Care       $    970.00            TOTAL $ 63,870.35
+
+                              UNIVERSITY OF LOUISIANA
+                              700 University Avenue
+                              Monroe, LA 71209
+                              (498)765-432
+
+NAME        Edward Danny Puller                     CREDITS         12
+ADDRESS     1492 Parsley, Rockland, TX 79625        
+PHONE       (341)576-267                            
+TUITION     $ 3,060.00                              
+LATE FEE    $   306.00                              
+INCEDENTAL  $   240.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  6559.00
+
+NAME        Missy Ariana Miller                     CREDITS          7
+ADDRESS     3268 Hill, Madison, AR 75502            
+PHONE       (359)926-614                            
+TUITION     $   717.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   140.00                              
+HEALTH CARE $   175.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3491.50
+
+NAME        Missy Ariana Miller                     CREDITS          7
+ADDRESS     3268 Hill, Madison, AR 75502            
+PHONE       (359)926-614                            
+TUITION     $   717.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   140.00                              
+HEALTH CARE $   175.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3491.50
+
+NAME        Genevie Dixie Schuller                  CREDITS         16
+ADDRESS     2999 Washington, Hicksville, VT 5186    
+PHONE       (886)217-439                            
+TUITION     $ 4,080.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   240.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  9319.00
+
+NAME        Sariah Mary Sheperd                     CREDITS         13
+ADDRESS     103 Duck, Hamilton, VA 20041            
+PHONE       (204)337-430                            
+TUITION     $   980.85                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $     0.00                                TOTAL            $   980.85
+
+NAME        Eugen Chad King                         CREDITS          5
+ADDRESS     3397 Hoover, Cloud, VA 20113            
+PHONE       (573)827-335                            
+TUITION     $ 1,755.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  4354.00
+
+NAME        Fred Gary Ash                           CREDITS          8
+ADDRESS     1311 Valley, Cloud, SC 29403            
+PHONE       (885)508-305                            
+TUITION     $ 2,808.00                              
+LATE FEE    $   280.80                              
+INCEDENTAL  $   160.00                              
+HEALTH CARE $   200.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  6507.00
+
+NAME        Pat Ed King                             CREDITS         11
+ADDRESS     868 Duck, Washington, MD 21210          
+PHONE       (318)570-019                            
+TUITION     $ 1,127.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   220.00                              
+HEALTH CARE $   220.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3946.50
+
+NAME        Pat Ed King                             CREDITS         11
+ADDRESS     868 Duck, Washington, MD 21210          
+PHONE       (318)570-019                            
+TUITION     $ 1,127.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   220.00                              
+HEALTH CARE $   220.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3946.50
+
+                              University of Louisiana TOTALS
+NUMBER OF STUDENTS  9
+INSTATE             5
+OUT OF STATE        9
+MEAL PLAN         3 Meals a day             1       $  4,999.00
+                  2 Meals a day             2       $  6,998.00
+                  1 Meal a day              5       $ 12,995.00
+                  FOOD SUB TOTAL                 $ 24,992.00
+TUITION           $ 16,373.85
+LATE FEE          $    586.80
+INCEDENTAL        $  1,720.00
+Health Care       $  1,230.00            TOTAL $ 42,595.85
+
+                              OKLAHOMA STATE UNIVERSITY
+                              700 N Greenwood Ave
+                              Tulsa, OK 74106
+                              (223)456-789
+
+NAME        Percival Nathan Grant                   CREDITS          2
+ADDRESS     551 Justice, Mesada, SD 57131           
+PHONE       (857)256-951                            
+TUITION     $   702.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3301.00
+
+NAME        Percival Nathan Grant                   CREDITS          2
+ADDRESS     551 Justice, Mesada, SD 57131           
+PHONE       (857)256-951                            
+TUITION     $   702.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3301.00
+
+NAME        Ada Charlene Einstein                   CREDITS         16
+ADDRESS     3081 Fender, Seoul, CT 6491             
+PHONE       (302)843-474                            
+TUITION     $ 1,207.20                              
+LATE FEE    $   120.72                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   240.00                              
+MEALPLAN    $     0.00                                TOTAL            $  1447.20
+
+NAME        Charlene Lena Davis                     CREDITS         15
+ADDRESS     1906 Valley, Trinidad, WV 26270         
+PHONE       (112)549-722                            
+TUITION     $ 3,825.00                              
+LATE FEE    $   382.50                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  6424.00
+
+NAME        Darcey Julie Ash                        CREDITS         20
+ADDRESS     3620 River, Lincoln, AK 99602           
+PHONE       (371)665-231                            
+TUITION     $ 6,080.00                              
+LATE FEE    $   608.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $ 11079.00
+
+NAME        Sue Cary Marshal                        CREDITS         14
+ADDRESS     813 Neutron, London, LA 71497           
+PHONE       (244)959-748                            
+TUITION     $ 3,570.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  6169.00
+
+NAME        Grace Gwen Schuller                     CREDITS          6
+ADDRESS     3086 Second, Mesada, DC 20005           
+PHONE       (788)195-744                            
+TUITION     $   615.00                              
+LATE FEE    $    61.50                              
+INCEDENTAL  $   120.00                              
+HEALTH CARE $   150.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3364.00
+
+NAME        Percival Nathan Grant                   CREDITS          2
+ADDRESS     551 Justice, Mesada, SD 57131           
+PHONE       (857)256-951                            
+TUITION     $   702.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3301.00
+
+                              Oklahoma State University TOTALS
+NUMBER OF STUDENTS  8
+INSTATE             2
+OUT OF STATE        8
+MEAL PLAN         3 Meals a day             1       $  4,999.00
+                  2 Meals a day             0       $      0.00
+                  1 Meal a day              6       $ 15,594.00
+                  FOOD SUB TOTAL                 $ 20,593.00
+TUITION           $ 17,403.20
+LATE FEE          $  1,172.72
+INCEDENTAL        $  1,240.00
+Health Care       $    390.00            TOTAL $ 38,386.20
+
+                              GEORGE MASON UNIVERSITY
+                              4400 University Drive
+                              Fairfax, Virginia 22030
+                              (598)765-432
+
+NAME        Wendy Sara Plank                        CREDITS         20
+ADDRESS     1499 Hill, Hicksville, NM 88166         
+PHONE       (130)496-357                            
+TUITION     $ 6,080.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   300.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  8979.00
+
+NAME        Abbot Ben Holiday                       CREDITS         12
+ADDRESS     584 Neutron, Boon, AR 75502             
+PHONE       (370)382-658                            
+TUITION     $ 3,060.00                              
+LATE FEE    $   306.00                              
+INCEDENTAL  $   240.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  8059.00
+
+NAME        Julie Sariah Hampton                    CREDITS          2
+ADDRESS     651 Oak, Trinidad, NY 6390              
+PHONE       (802)208-827                            
+TUITION     $   702.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $    50.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4251.00
+
+NAME        Ariana Rita Erp                         CREDITS          6
+ADDRESS     3030 Justice, Freetown, DE 19919        
+PHONE       (116)698-822                            
+TUITION     $   615.00                              
+LATE FEE    $    61.50                              
+INCEDENTAL  $   120.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4114.00
+
+NAME        Belle Cathy Poe                         CREDITS         15
+ADDRESS     1112 Forth, Dale, WV 26620              
+PHONE       (912)222-155                            
+TUITION     $ 3,825.00                              
+LATE FEE    $   382.50                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   300.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  9124.00
+
+NAME        Cathy Margret Jackson                   CREDITS         11
+ADDRESS     1829 Hoover, Buggtown, DE 19836         
+PHONE       (237)924-803                            
+TUITION     $ 1,127.50                              
+LATE FEE    $   112.75                              
+INCEDENTAL  $   220.00                              
+HEALTH CARE $   220.00                              
+MEALPLAN    $     0.00                                TOTAL            $  1347.50
+
+NAME        Charlene Zelda Lincoln                  CREDITS         20
+ADDRESS     3013 Hamilton, St Petersburg, TX 75397  
+PHONE       (854)345-821                            
+TUITION     $ 6,080.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   300.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  9879.00
+
+NAME        Julie Sariah Hampton                    CREDITS          2
+ADDRESS     651 Oak, Trinidad, NY 6390              
+PHONE       (802)208-827                            
+TUITION     $   702.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $    50.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4251.00
+
+NAME        Ariana Rita Erp                         CREDITS          6
+ADDRESS     3030 Justice, Freetown, DE 19919        
+PHONE       (116)698-822                            
+TUITION     $   615.00                              
+LATE FEE    $    61.50                              
+INCEDENTAL  $   120.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4114.00
+
+                              George Mason University TOTALS
+NUMBER OF STUDENTS  9
+INSTATE             3
+OUT OF STATE        9
+MEAL PLAN         3 Meals a day             2       $  9,998.00
+                  2 Meals a day             5       $ 17,495.00
+                  1 Meal a day              1       $  2,599.00
+                  FOOD SUB TOTAL                 $ 30,092.00
+TUITION           $ 22,806.50
+LATE FEE          $    924.25
+INCEDENTAL        $  1,530.00
+Health Care       $  1,220.00            TOTAL $ 54,118.50
+
+                              JAMES MADISON UNIVERSITY
+                              800 South Main Street
+                              Harrisonburg, Virginia 22807
+                              (598)765-432
+
+                              James Madison University TOTALS
+NUMBER OF STUDENTS  0
+INSTATE             0
+OUT OF STATE        0
+MEAL PLAN         3 Meals a day             0       $      0.00
+                  2 Meals a day             0       $      0.00
+                  1 Meal a day              0       $      0.00
+                  FOOD SUB TOTAL                 $      0.00
+TUITION           $      0.00
+LATE FEE          $      0.00
+INCEDENTAL        $      0.00
+Health Care       $      0.00            TOTAL $      0.00
+
+                              UNIVERSITY OF VIRGINIA
+                              190 McCormick Road
+                              Charlottesville, VA 22903
+                              (698)765-432
+
+NAME        Reed Ben Erp                            CREDITS          2
+ADDRESS     25 Lincoln, Riyadh, WI 53743            
+PHONE       (723)932-698                            
+TUITION     $   702.00                              
+LATE FEE    $    70.20                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $    50.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4251.00
+
+NAME        Reed Ben Erp                            CREDITS          2
+ADDRESS     25 Lincoln, Riyadh, WI 53743            
+PHONE       (723)932-698                            
+TUITION     $   702.00                              
+LATE FEE    $    70.20                              
+INCEDENTAL  $    40.00                              
+HEALTH CARE $    50.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4251.00
+
+NAME        Ben Larry Puller                        CREDITS         14
+ADDRESS     454 Lincoln, Plains, MO 65259           
+PHONE       (370)875-925                            
+TUITION     $ 3,570.00                              
+LATE FEE    $   357.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   280.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  6449.00
+
+NAME        Abraham George Sheperd                  CREDITS         20
+ADDRESS     2858 Electron, Rockland, RI 2841        
+PHONE       (995)141-716                            
+TUITION     $ 1,860.00                              
+LATE FEE    $   186.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  5359.00
+
+NAME        Richard Abel Adams                      CREDITS          8
+ADDRESS     1994 Walnut, Cloud, TX 75268            
+PHONE       (936)956-028                            
+TUITION     $   820.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   160.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $     0.00                                TOTAL            $   820.00
+
+NAME        Betty Sally Puller                      CREDITS          9
+ADDRESS     3746 King, Cairo, IL 62291              
+PHONE       (848)457-052                            
+TUITION     $   922.50                              
+LATE FEE    $    92.25                              
+INCEDENTAL  $   180.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  5921.50
+
+NAME        Delila Julia Miller                     CREDITS         18
+ADDRESS     3585 Seventh, Trinidad, IL 61424        
+PHONE       (124)572-447                            
+TUITION     $ 1,358.10                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3957.10
+
+NAME        Abraham George Sheperd                  CREDITS         20
+ADDRESS     2858 Electron, Rockland, RI 2841        
+PHONE       (995)141-716                            
+TUITION     $ 1,860.00                              
+LATE FEE    $   186.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  5359.00
+
+                              University of Virginia TOTALS
+NUMBER OF STUDENTS  8
+INSTATE             5
+OUT OF STATE        8
+MEAL PLAN         3 Meals a day             1       $  4,999.00
+                  2 Meals a day             4       $ 13,996.00
+                  1 Meal a day              2       $  5,198.00
+                  FOOD SUB TOTAL                 $ 24,193.00
+TUITION           $ 11,794.60
+LATE FEE          $    961.65
+INCEDENTAL        $  1,420.00
+Health Care       $    380.00            TOTAL $ 36,367.60
+
+                              GONZAGA UNIVERSITY
+                              502 E Boone
+                              Spokane, WA 99258
+                              (098)765-432
+
+NAME        Ellen Carolyn Hampton                   CREDITS          8
+ADDRESS     1404 First, Bejing, WA 98267            
+PHONE       (389)170-760                            
+TUITION     $ 2,808.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   160.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  6307.00
+
+NAME        Charlotte Betty King                    CREDITS         16
+ADDRESS     2050 Parsley, Mesada, NY 10414          
+PHONE       (260)428-969                            
+TUITION     $ 1,207.20                              
+LATE FEE    $   120.72                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  6206.20
+
+NAME        Ellen Carolyn Hampton                   CREDITS          8
+ADDRESS     1404 First, Bejing, WA 98267            
+PHONE       (389)170-760                            
+TUITION     $ 2,808.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   160.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  6307.00
+
+NAME        Missy Jane Davis                        CREDITS          5
+ADDRESS     1603 Neutron, Lincoln, UT 84680         
+PHONE       (796)567-904                            
+TUITION     $ 1,755.00                              
+LATE FEE    $   175.50                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $   125.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  5379.00
+
+NAME        Charlotte Betty King                    CREDITS         16
+ADDRESS     2050 Parsley, Mesada, NY 10414          
+PHONE       (260)428-969                            
+TUITION     $ 1,207.20                              
+LATE FEE    $   120.72                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  6206.20
+
+NAME        Ned Abraham Harrison                    CREDITS          5
+ADDRESS     1475 Bay, Seattle, ND 58720             
+PHONE       (937)480-561                            
+TUITION     $   512.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $   125.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3236.50
+
+NAME        Missy Jane Davis                        CREDITS          5
+ADDRESS     1603 Neutron, Lincoln, UT 84680         
+PHONE       (796)567-904                            
+TUITION     $ 1,755.00                              
+LATE FEE    $   175.50                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $   125.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  5379.00
+
+NAME        Kenneth Richard Maddison                CREDITS          5
+ADDRESS     2755 Miller, Cooltown, UT 84197         
+PHONE       (285)310-981                            
+TUITION     $ 1,755.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $   125.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  6879.00
+
+NAME        Peter Percy Poe                         CREDITS         13
+ADDRESS     2685 Dale, St Petersburg, NY 11724      
+PHONE       (893)922-403                            
+TUITION     $   980.85                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $   260.00                              
+MEALPLAN    $  3499.00                                TOTAL            $  4739.85
+
+NAME        Ned Abraham Harrison                    CREDITS          5
+ADDRESS     1475 Bay, Seattle, ND 58720             
+PHONE       (937)480-561                            
+TUITION     $   512.50                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   100.00                              
+HEALTH CARE $   125.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3236.50
+
+NAME        Fritz Lex Grant                         CREDITS          6
+ADDRESS     3132 Main, Wooly, NJ 7079               
+PHONE       (899)374-762                            
+TUITION     $ 2,106.00                              
+LATE FEE    $     0.00                              
+INCEDENTAL  $   120.00                              
+HEALTH CARE $   150.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  4855.00
+
+NAME        Dean Edward Williams                    CREDITS         19
+ADDRESS     3366 sixth, Plains, NV 89340            
+PHONE       (161)522-385                            
+TUITION     $ 1,767.00                              
+LATE FEE    $   176.70                              
+INCEDENTAL  $   250.00                              
+HEALTH CARE $     0.00                              
+MEALPLAN    $  4999.00                                TOTAL            $  6766.00
+
+NAME        Betty Elisabeth Hill                    CREDITS          9
+ADDRESS     3832 First, Danville, DC 20799          
+PHONE       (505)768-334                            
+TUITION     $   922.50                              
+LATE FEE    $    92.25                              
+INCEDENTAL  $   180.00                              
+HEALTH CARE $   225.00                              
+MEALPLAN    $  2599.00                                TOTAL            $  3746.50
+
+NAME        Missy Jane Davis                        CREDITS          5
+ADDRESS     1603 Neutron, Lincoln, UT 84680         
+PHONE       (796)567-904                            
+TUITIO
